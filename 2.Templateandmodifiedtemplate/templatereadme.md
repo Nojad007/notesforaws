@@ -1,0 +1,1 @@
+Created a template using the EC2 instance. Launched a template with a modified script that is different from the script in the inital. Created and instance using the new template with the modified script
