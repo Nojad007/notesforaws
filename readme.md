@@ -1,7 +1,7 @@
 This repo is for aws class notes
 
 1. Creating EC2 Instance
-   These are the steps to creating EC2 instance
+   These are the steps to creating EC2 instance complete with a private subnet, a start up script, with the end goal of using the DNS link to connect to this server
 
 2.   Templates & Modified Template
    These are the steps to creating templates from the already created EC2 instances
